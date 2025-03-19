@@ -17,4 +17,4 @@ GNU General Public License ([v3](https://www.gnu.org/licenses/gpl.txt))
 
 ## Copyright
 
-Copyright (c) 2020-2023, [orhun](https://www.github.com/orhun)
+Copyright (c) 2025-present, [chrisramfon](https://www.github.com/chrisramfon)
