@@ -11,10 +11,6 @@ Black Waves is a dark theme with black + white and slightly {blue,green}ish colo
 
 ## Installation
 
-Use the extensions tab within VSCode, search for "Black Waves" and then click the <s>regret</s> install button.
-
-### Manual
-
 Clone the repository into VSCode `extensions` folder and restart the editor.
 
 ## License
