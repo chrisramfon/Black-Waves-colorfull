@@ -7,7 +7,7 @@
 ## Description
 
 <!-- Eyes go brrr -->
-Black Waves is a dark theme with black + white and slightly {blue,green}ish colors. Use it with [Keen neutral icon theme](https://marketplace.visualstudio.com/items?itemName=keenethics.keen-neutral-icon-theme) for ultimate concentration after instant blindness.
+Black Waves is a dark theme with black + white and slightly {blue,green}ish colors.
 
 ## Installation
 
@@ -16,10 +16,6 @@ Use the extensions tab within VSCode, search for "Black Waves" and then click th
 ### Manual
 
 Clone the repository into VSCode `extensions` folder and restart the editor.
-
-### OpenVSX
-
-Black Waves is also available on [Open VSX Registry](https://open-vsx.org/extension/orhun/black-waves).
 
 ## License
 
